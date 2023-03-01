@@ -92,6 +92,7 @@ a {
   <div class="container signin">
     <p>Already have an account? <a href="#">Sign in</a>.</p>
     <p>Some modification to automatically trigger it in aws</p>
+    <p> another one</p>
   </div>
 </form>
 
